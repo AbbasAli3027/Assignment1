@@ -35,4 +35,4 @@ I set up a GitHub repository to host all the site's code. This includes HTML, CS
 The repository is private, and I've invited my instructor as a collaborator so they can access the code. The report is included in the repository and I've also submitted it on Blackboard, along with the GitHub link.
 
 #Conclusion
-Building my gaming hobby website was a fun and educational experience. I got to improve my skills in HTML, CSS, and JavaScript while showcasing my passion for gaming. By following the assignment guidelines and using GitHub for project management, I was able to put together a site I'm proud of.
+Building my gaming hobby website was a fun and educational experience. I got to improve my skills in HTML, CSS, and JavaScript while showcasing my passion for gaming.
